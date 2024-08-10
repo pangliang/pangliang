@@ -6,5 +6,5 @@ Hello! :wave:
 - :sunglasses: I'm PangLiang
 - :house: I live in Beijing
 - :snake: I like Java
-- :crab: And php
+- :crab: And Python, C#, Golang
 - :earth_africa: check out [my blog](https://www.zhaoxiaodan.com)
